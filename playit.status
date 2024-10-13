@@ -1,376 +1,119 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728779021385 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728786705392 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779024453 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786708452 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779027518 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786711541 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779030586 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786714620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728779047499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786717748 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779050572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786720826 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779053658 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786723900 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779056729 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786726979 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779059788 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786730066 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728779074895 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786733138 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779077961 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786736246 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779081037 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786739336 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779084097 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786742422 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728779101684 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786745500 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779105207 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786748577 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779108274 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786751647 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779111340 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786754716 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779114411 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786757784 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779117476 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786760854 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779120551 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786763920 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779123659 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786766990 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779127395 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786770060 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779130474 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786773768 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779133559 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779136623 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779139694 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779142763 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779145826 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779150484 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779153570 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779156644 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779159713 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779162809 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779165870 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779168932 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779171999 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779175069 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779178133 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779181202 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779184268 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779187335 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779190909 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779193998 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779197345 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779200421 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779203498 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779206572 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779209672 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779212925 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779215986 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779219057 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779222119 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779225188 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779228250 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779231324 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779234395 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779237463 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779240528 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779243807 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779246962 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779250157 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779253233 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779256309 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779259375 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779262443 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779265516 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779269446 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779272511 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779275616 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779278681 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779282987 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779286058 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-running-kevin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728779289119 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728786778697 tunnel running, 1 tunnels registered
 
 
 TUNNELS
